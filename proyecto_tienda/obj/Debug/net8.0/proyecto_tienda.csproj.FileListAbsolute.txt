@@ -1029,3 +1029,4 @@ C:\Users\Bismark\Documents\GitHub\.net_projects\proyecto_tienda\obj\Debug\net8.0
 C:\Users\Bismark\Documents\GitHub\.net_projects\proyecto_tienda\obj\Debug\net8.0\refint\proyecto_tienda.dll
 C:\Users\Bismark\Documents\GitHub\.net_projects\proyecto_tienda\obj\Debug\net8.0\proyecto_tienda.pdb
 C:\Users\Bismark\Documents\GitHub\.net_projects\proyecto_tienda\obj\Debug\net8.0\ref\proyecto_tienda.dll
+C:\Users\Bismark\Documents\GitHub\.net_projects\proyecto_tienda\obj\Debug\net8.0\proyecto_tienda.sourcelink.json

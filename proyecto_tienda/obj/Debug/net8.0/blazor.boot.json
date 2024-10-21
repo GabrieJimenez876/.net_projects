@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "proyecto_tienda",
   "resources": {
-    "hash": "sha256-Kk27kuZZ/uq6/FOrJ1BjXo5Zq8bqEeqoV3D+k0XaMg4=",
+    "hash": "sha256-wfqUk+N9PXQpldnr/UNKAG2T6aMfB/GnkM0LBbYCgXA=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.42oatu4huk.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "proyecto_tienda.wasm": "sha256-/AnU071V+LZJjMndReFhIgvjtUWKFcQJWhB9PNPSlaE="
+      "proyecto_tienda.wasm": "sha256-a+KW8tFatFMO/8CSbWbOfT2OLgq+y1JjlV+UGCW2JV0="
     },
     "pdb": {
-      "proyecto_tienda.pdb": "sha256-Sr5gBmBdLeWQZ2VOrl2EGRoaHypPB/D7UVFuJM9a9ys="
+      "proyecto_tienda.pdb": "sha256-CBKFnNbyTsL15RhD/SlH6sTTqcLJNk7GcnKvuLlODYk="
     }
   },
   "cacheBootResources": true,
