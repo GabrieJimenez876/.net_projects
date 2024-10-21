@@ -13,16 +13,52 @@
       "PackagePath": "staticwebassets\\proyecto_tienda.styles.css"
     },
     {
-      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\css\\app.css",
-      "PackagePath": "staticwebassets\\css\\app.css"
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\Base\\CategoriaProductoApp.java",
+      "PackagePath": "staticwebassets\\Base\\CategoriaProductoApp.java"
     },
     {
-      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\Base\\DetalleProductoAppFX.java",
+      "PackagePath": "staticwebassets\\Base\\DetalleProductoAppFX.java"
     },
     {
-      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\Base\\MainApp.java",
+      "PackagePath": "staticwebassets\\Base\\MainApp.java"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\Base\\ProductosApp.java",
+      "PackagePath": "staticwebassets\\Base\\ProductosApp.java"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\Base\\RegistroPedidoApp.java",
+      "PackagePath": "staticwebassets\\Base\\RegistroPedidoApp.java"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\Base\\RegistroProductoApp.java",
+      "PackagePath": "staticwebassets\\Base\\RegistroProductoApp.java"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\Base\\TiendaVirtualApp.java",
+      "PackagePath": "staticwebassets\\Base\\TiendaVirtualApp.java"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\Base\\Usuario.java",
+      "PackagePath": "staticwebassets\\Base\\Usuario.java"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\ConexionDB.java",
+      "PackagePath": "staticwebassets\\ConexionDB.java"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\Main.java",
+      "PackagePath": "staticwebassets\\Main.java"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\Untitled-1.sql",
+      "PackagePath": "staticwebassets\\Untitled-1.sql"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\example.java",
+      "PackagePath": "staticwebassets\\example.java"
     },
     {
       "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\favicon.png",
@@ -33,12 +69,172 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\1142537237.avif",
+      "PackagePath": "staticwebassets\\img\\1142537237.avif"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\1142537237_1p.avif",
+      "PackagePath": "staticwebassets\\img\\1142537237_1p.avif"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\324576005_572915180912710_706923954050794704_n.jpg",
+      "PackagePath": "staticwebassets\\img\\324576005_572915180912710_706923954050794704_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\61-Uz3Bys7L._AC_UF894,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\img\\61-Uz3Bys7L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\61B1Ul4rqNL.jpg",
+      "PackagePath": "staticwebassets\\img\\61B1Ul4rqNL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\61wh8DhFZML._AC_UF894,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\img\\61wh8DhFZML._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\71O-Il088wL.jpg",
+      "PackagePath": "staticwebassets\\img\\71O-Il088wL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\71djla0MxAL.jpg",
+      "PackagePath": "staticwebassets\\img\\71djla0MxAL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\71je54UojTL.jpg",
+      "PackagePath": "staticwebassets\\img\\71je54UojTL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\91OqPNYOsIL.jpg",
+      "PackagePath": "staticwebassets\\img\\91OqPNYOsIL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\Alien.jpeg",
+      "PackagePath": "staticwebassets\\img\\Alien.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\D_NQ_NP_2X_731856-MLM43201488440_082020-F.webp",
+      "PackagePath": "staticwebassets\\img\\D_NQ_NP_2X_731856-MLM43201488440_082020-F.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\D_NQ_NP_713570-CBT51123819573_082022-O.webp",
+      "PackagePath": "staticwebassets\\img\\D_NQ_NP_713570-CBT51123819573_082022-O.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\D_NQ_NP_761490-MLU74389060821_022024-O.webp",
+      "PackagePath": "staticwebassets\\img\\D_NQ_NP_761490-MLU74389060821_022024-O.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\D_NQ_NP_914820-CBT73885062318_012024-O.webp",
+      "PackagePath": "staticwebassets\\img\\D_NQ_NP_914820-CBT73885062318_012024-O.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\H3ae358f708b249148f36851caa491915k.avif",
+      "PackagePath": "staticwebassets\\img\\H3ae358f708b249148f36851caa491915k.avif"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\Hasta.jpeg",
+      "PackagePath": "staticwebassets\\img\\Hasta.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\MKCIKURWOU-0650-001.webp",
+      "PackagePath": "staticwebassets\\img\\MKCIKURWOU-0650-001.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\Nagi.jpeg",
+      "PackagePath": "staticwebassets\\img\\Nagi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\S98faef4e56ba4270aad0b9a327027454H.avif",
+      "PackagePath": "staticwebassets\\img\\S98faef4e56ba4270aad0b9a327027454H.avif"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\WhatsApp Image 2024-09-15 at 8.34.04 PM.jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2024-09-15 at 8.34.04 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\WhatsApp Image 2024-09-15 at 8.34.06 PM.jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2024-09-15 at 8.34.06 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\b9f1e06426870ae598b9c96b36911c01.jpg",
+      "PackagePath": "staticwebassets\\img\\b9f1e06426870ae598b9c96b36911c01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\banner2.gif",
+      "PackagePath": "staticwebassets\\img\\banner2.gif"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\dragon.jpeg",
+      "PackagePath": "staticwebassets\\img\\dragon.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\eren.jpeg",
+      "PackagePath": "staticwebassets\\img\\eren.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\harry-potter-varita-caja-ollivanders-portada-1-07fd284fabacfed87016995692266911-1024-1024.jpg",
+      "PackagePath": "staticwebassets\\img\\harry-potter-varita-caja-ollivanders-portada-1-07fd284fabacfed87016995692266911-1024-1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\images (1).jfif",
+      "PackagePath": "staticwebassets\\img\\images (1).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\images (2).jfif",
+      "PackagePath": "staticwebassets\\img\\images (2).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\images (3).jfif",
+      "PackagePath": "staticwebassets\\img\\images (3).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\images (4).jfif",
+      "PackagePath": "staticwebassets\\img\\images (4).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\images.jfif",
+      "PackagePath": "staticwebassets\\img\\images.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\inuyasha.jpeg",
+      "PackagePath": "staticwebassets\\img\\inuyasha.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\luffy.jpeg",
+      "PackagePath": "staticwebassets\\img\\luffy.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\img\\naruto.jpeg",
+      "PackagePath": "staticwebassets\\img\\naruto.jpeg"
+    },
+    {
       "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\registrarUsuario.java",
+      "PackagePath": "staticwebassets\\registrarUsuario.java"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Bismark\\Documents\\GitHub\\.net_projects\\proyecto_tienda\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.proyecto_tienda.props",
