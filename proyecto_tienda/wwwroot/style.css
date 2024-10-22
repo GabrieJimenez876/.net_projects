@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 :root {
-	--primary-color: #0acce6;
-	--background-color: #f9f5f0;
-	--dark-color: #0acce6;
+	--primary-color: #1eb707;
+	--background-color: #333139;
+	--dark-color: #46cb09;
 }
 
 html {
@@ -71,12 +71,12 @@ html {
 
 .container-logo i {
 	font-size: 3rem;
-	color: #22def7;
+	color: #1eb707;
 }
 
 .container-logo h1 a {
 	text-decoration: none;
-	color: #22def7;
+	color: #1eb707;
 	font-size: 3rem;
 	text-transform: uppercase;
 	letter-spacing: -1px;
